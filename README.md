@@ -1,102 +1,61 @@
-Research project template
-=========================
+Módulos e dimensões do parcelamento urbano no Brasil do século XIX
+==================================================================
 
-Contents
---------
+Esta pesquisa propõe uma análise morfológica dos parcelamentos urbanos
+empreendidos em algumas cidades brasileiras ao longo do século XIX.
 
-This repository is a template for starting new research project
-repositories. It comes preloaded with some useful stuff:
+Entre o final do ciclo de fundações de vilas promovido pelo marquês de
+Pombal (1777) e o início do ciclo de projetos urbanos da primeira
+República (1895), a urbanização luso-brasileira se transforma
+paulatinamente. O ímpeto urbanizador do Estado central arrefece neste
+período, à exceção de iniciativas pontuais como Niterói (1819) e
+Petrópolis (1843), deixando o protagonismo para as capitais regionais
+--- desde a expansão da Vila Boa de Goiás (1782) até as fundações de
+Aracaju (1855) e Teresina (1861) --- e para as urbanizações de
+freguesias e colônias de imigrantes, sobretudo ao longo do segundo
+reinado. Aos princípios de ocupação do território herdados da Idade
+Média --- a aldeia--rua e o os lotes modulares ---, agrega-se a retícula
+que caracteriza o parcelamento planejado por glebas, ainda que
+frequentemente deformada com respeito ao inflexível paradigma pombalino.
 
-- Citation Style Language [citation
-  styles](https://github.com/citation-style-language/styles) installed
-  as a submodule in `lib/` for managing citations;
-- A `.gitignore` file for LaTeX, Jekyll (for GitHub pages), Python, and
-  R, using GitHub's [gitignore
-  templates](https://github.com/github/gitignore);
-- GitHub pages should be set up to use `docs/` on the Master branch;
-- [Reveal.js](https://revealjs.com/) installed as a submodule in
-  `docs/` for creating web based slide presentations;
-- A preconfigured `_config.yml` for Jekyll so it does not try to mess
-  with you Reveal.js installation or to generate a web page from the
-  README (there is a set of default options for using Pandoc to
-  generate `docs/index.html` from the README, see below);
-- Preconfigured defaults for generating documents with
-  [Pandoc](http://pandoc.org), in the `spec` folder;
-- [Pandoc-xnos](https://github.com/tomduck/pandoc-xnos) filter running
-  inside a virtual environment;
-- [Lice](https://github.com/licenses/lice) to generate your license
-  (Creative Commons attribution--share-alike by default), also in the
-  virtual environment;
-- A [Makefile](https://www.gnu.org/software/make/) to set up all of the
-  above with some sensible defaults (inspect the file to find out what
-  they are and change as needed).
+A pesquisa explora o dimensionamento e a modularidade dos parcelamentos
+urbanos no Brasil estabelecidos no período de 1777 a 1895, com base em
+plantas cadastrais de época e em reconstituições a partir de
+levantamentos cadastrais recentes. Procura-se averiguar em que medida os
+novos tecidos urbanos constituídos neste recorte cronológico adotam os
+módulos dimensionais portugueses, vigentes desde a Idade Média e apenas
+parcialmente alterados no período pombalino: lotes de 25 por 50 palmos e
+ruas com 60 a 100 palmos de caixa.
 
-This is the general setup I use to start a research project writing in
-Markdown and using Pandoc to generate PDFs or Word documents. It works
-nicely in conjunction with an Open Science Framework project. I have
-tried to keep it simple and avoid feature bloat. Feel free to share
-your favorite starter setup with me on Twitter.
+O objetivo geral deste trabalho é mapear e tabular os módulos
+dimensionais de lotes e vias adotados nas novas capitais provinciais
+fundadas *ex novo* ou por meio da reforma de tecidos urbanos
+preexistentes --- Aracaju, Maceió, Manaus, Teresina e Belo Horizonte ---
+bem como parcelamentos urbanos planejados no crescimento de algumas das
+principais capitais já estabelecidas --- Rio de Janeiro, Salvador,
+Recife, São Paulo, Belém, Porto Alegre, Curitiba e Goiás. São objetivos
+específicos necessários à sua consecução:
 
-:warning: For now, the makefile is set up to work only on Linux/Mac
-because it invokes shell commands. Help is appreciated in converting it
-to Python for cross-platform support.
+- Inventariar, classificar, reproduzir, georreferenciar e redesenhar
+  fontes cartográficas primárias das cidades objeto deste Plano no
+  período estudado;
+- Analisar as dimensões dos elementos urbanísticos --- lotes e vias ---,
+  propondo para cada setor urbano estudado uma normalização ideal das
+  dimensões projetadas;
+- Tabular as dimensões normalizadas assim obtidas e confrontá-las com os
+  módulos predominantes na urbanização tradicional luso-brasileira;
+- Confrontar os levantamentos históricos ou reconstituídos das cidades
+  com a situação atual do parcelamento urbano, observando a resiliência
+  dos padrões urbanísticos.
 
-Usage
------
+* * *
 
-- Click on the "Use this template" button above the file list and see
-  further instructions on the page [Creating a repository from a
-  template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-  on GitHub's Help documentation;
-- After checking out the repository, use `make install` to set up
-  submodules and the virtual environment (I expect you have `rsync` and
-  Python 3 with `pip` installed);
-- Citation styles are updated frequently; run `make submodule`
-  often to keep up-to-date with the latest revisions.
 
-:warning: By default, only the `chicago-author-date.csl` style is
-checked out. Edit `.install/modules/lib/styles/info/sparse-checkout` and
-run `make submodule` at any time if you want to add other citation
-styles.
-
-You may also want to fork this repository to create your own template,
-or contribute features to this one.
-
-Tip: if you have several repositories based on this template, you might
-not want to replicate the virtual environment on every one of them, but
-rather invoke it from a single location, to save a little disk space. If
-this is the case, do not run `make install` but instead pick the `make`
-targets you need individually (inspect the Makefile to find out which
-ones).
-
-License
--------
-
- Research project template repository
- Copyright (C) 2020  Pedro P. Palazzo
+ Módulos e dimensões do parcelamento urbano no Brasil do século XIX (c)
+ 2020 by Pedro P. Palazzo e Flávia Rosa de La Plata
  
- This program is free software: you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
- the Free Software Foundation, either version 3 of the License, or
- (at your option) any later version.
+ Módulos e dimensões do parcelamento urbano no Brasil do século XIX is licensed under a
+ Creative Commons Attribution-ShareAlike 3.0 Unported License.
  
- This program is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
- 
- You should have received a copy of the GNU General Public License
- along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-- The Citations Styles Language Styles belong to
-  [CitationStyles.org](http://citationstyles.org/) and are licensed
-  under the [Creative Commons Attribution-ShareAlike 3.0 Unported
-  license](http://creativecommons.org/licenses/by-sa/3.0/). The
-- Reveal.js framework is Copyright (C) 2019 Hakim El Hattab,
-  http://hakim.se, and is licensed under the [MIT
-  License](https://raw.githubusercontent.com/licenses/license-templates/master/templates/mit.txt).
-- [Pandoc-Xnos](https://github.com/tomduck/pandoc-xnos) is licensed by
-  Thomas G. Duck under the
-  [GPL v3](https://raw.githubusercontent.com/licenses/license-templates/master/templates/gpl3.txt).
-- I am not affiliated in any way with any of the organizations or people
-  whose software I have included here.
+ You should have received a copy of the license along with this
+ work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.

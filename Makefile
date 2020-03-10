@@ -81,7 +81,7 @@ build :
 
 license :
 	source .venv/bin/activate && \
-		lice --header cc_by_sa >> README.md && \
+		lice --header cc_by_sa -p "Módulos e dimensões do parcelamento urbano no Brasil do século XIX" >> README.md && \
 		lice cc_by_sa -f LICENSE
 
 # `make clean` will clear out a few standard folders where only compiled

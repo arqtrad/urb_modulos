@@ -1,9 +1,15 @@
 ---
 title      : 'Apontamentos para uma história da forma urbana no Planalto central do Brasil'
 author:
-  - Pedro Paulo Palazzo[^aff2]
-  - Flávia Rosa de la Plata[^aff1]
-date       : "PNUM 2020"
+  - name   : Pedro Paulo Palazzo
+    affiliation: >
+      Professor adjunto, Departamento de Teoria e História da
+      Arquitetura e do Urbanismo, Universidade de Brasília; palazzo\@unb.br
+  - name   : Flávia Rosa de la Plata
+    affiliation: >
+      Universidade de Brasília, curso de graduação em Arquitetura e
+      Urbanismo; flaviadelaplata\@gmail.com.
+date       : "PNUM 2020 Subtema 3. O Tempo e a Forma Urbana"
 abstract:
 description: |
   A urbanização no planalto Central do Brasil é pontuada por uma
@@ -577,50 +583,6 @@ subsidiário à demanda por moradia na metrópole da capital federal.
 Referências bibliográficas
 ==========================
 
-BORGES, P.C.J. - **A locomotiva nas fronteiras: Veículo das
-transformações em Goiás -- 1913 -- 1940**. Goiânia: Universidade Federal
-de Goiás, Programa de Pós-Graduação em Ciências Ambientais, 2014. Tese
-de Doutorado.
-
-BRANDÃO, S.B. - **A Antiga linha férrea de Goiânia: de símbolo da
-modernidade à obsolescência**. Goiânia: Universidade Federal de Goiás,
-Programa de Pós-Graduação em Projeto e Cidade, 2017. Tese de Mestrado.
-
-FERREIRA, A.M. -- **Urbanização e arquitetura na região da Estrada de
-Ferro Goiás**. -- E.F.G Goiás: Cidade de Pires do Rio, um exemplar em
-estudo. Goiânia: Universidade Federal de Goiás, Programa de
-Pós-Graduação em Faculdade de Ciências Humanas e Filosofia, 1999. Tese
-de Mestrado.
-
-FINGER, A. E. **Um século de estradas de ferro: arquiteturas das
-ferrovias no Brasil entre 1852 e 1957**. Brasília: Programa de
-Pós-Graduação em Arquitetura e Urbanismo, Universidade de Brasília,
-2014. Tese de doutorado. Disponível em: \<
-<http://repositorio.unb.br/handle/10482/15345> \>. Acesso em: 14 jan.
-2018.
-
-FERREIRA, A.M. **Urbanização e arquitetura na região da Estrada de Ferro
-Goiás**. -- E.F.G Goiás: Cidade de Pires do Rio, um exemplar em estudo.
-Goiânia: Universidade Federal de Goiás, Programa de Pós-Graduação em
-Faculdade de Ciências Humanas e Filosofia, 1999. Tese de Mestrado.
-
-GIESBRECHT, R. M. **Estados de Minas Gerais e de Goiás.** Disponível em:
-\< <http://www.estacoesferroviarias.com.br/efgoiaz/indice.htm>\> .
-Acesso em: 25 de jul. 2018.
-
-MARIA DE SOUZA FRANÇA. A formação histórica da cidade de Anápolis e sua
-área de influência regional. ANPUH, Belo Horizonte, vol. 1, nº 55, 28f,
-636-664, setembro de 1973.
-
-PALACIN, L.; MORAES, M. A. S. **História de Goiás (1722--1972)**.
-Goiânia: Imprensa da U.F.GO., 1975.
-
-PANERAI, P. **Análise urbana**. Tradução de Francisco Leitão. 2. ed.
-Brasília: Editora UnB, 2014.
-
-[^aff1]: Universidade de Brasília, curso de graduação em Arquitetura e
-  Urbanismo; flaviadelaplata\@gmail.com.
-
-[^aff2]: Professor adjunto, Departamento de Teoria e História da
-  Arquitetura e do Urbanismo, Universidade de Brasília; palazzo\@unb.br
+::: {#refs}
+:::
 

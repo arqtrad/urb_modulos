@@ -1,6 +1,6 @@
 filters:
-- pandoc-internalrefs
-- pandoc-citeproc
+  - pandoc-internalrefs
+  - pandoc-citeproc
 fail-if-warnings       : True
 file-scope             : True
 standalone             : True
@@ -9,9 +9,13 @@ from                   : 'markdown'
 to                     : 'docx'
 table-of-contents      : False
 number-sections        : False
-csl                    : 'spec/styles/chicago-fullnote-bibliography-with-ibid.csl'
-bibliography           : 'biblio.bib'
-suppress-bibliography  : False
+csl                    : 'lib/styles/chicago-author-date.csl'
+bibliography           : '_data/biblio.yaml'
+reference-document     : "https://pnum2020.pt/images/Congresso/resumos/Template-Resumos-PNUM2020.docx"
 resource-path:
-- .
-- fig
+  - .
+  - fig
+metadata:
+  suppress-bibliography: False
+  nocite               : "@*"
+  bibliography-title   : "Referências"

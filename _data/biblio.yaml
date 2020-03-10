@@ -1,2 +1,585 @@
 ---
----
+references:
+- id: 'araujo:2003razao'
+  author:
+    - family: Araújo
+      given: Renata
+  call-number: 711.034.8(811.7)
+  container-title: Camões
+  issue: 15–16
+  issued:
+    - literal: jan.–jun. 2003
+  page: 151–165
+  title: 'A Razão na Selva: Pombal e a Reforma Urbana da Amazónia'
+  title-short: A Razão na Selva
+  type: article-journal
+  URL: >-
+    http://cvc.instituto-camoes.pt/conhecer/biblioteca-digital-camoes/revistas-e-periodicos/revista-camoes/revista-no15-16-marques-de-pombal/1503-1503/file.html
+
+- id: 'araujo:2012urbanizacao'
+  accessed:
+    - year: 2014
+      month: 7
+      day: 15
+  author:
+    - family: Araujo
+      given: Renata Malcher
+      dropping-particle: de
+  call-number: 711.034.8(811.7/816)
+  container-title: 'Anais do Museu Paulista: História e Cultura Material'
+  DOI: 10.1590/S0101-47142012000100003
+  ISSN: 0101-4714
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 6
+  language: pt-BR
+  page: 41-76
+  source: CrossRef
+  title: >-
+    A urbanização da Amazónia e do Mato Grosso no século XVIII povoações civis,
+    decorosas e úteis para o bem comum da coroa e dos povos
+  type: article-journal
+  URL: 'http://ref.scielo.org/24nv7t'
+  volume: '20'
+
+- id: 'barbo:2011preexistencia'
+  accessed:
+    - year: 2014
+      month: 3
+      day: 26
+  author:
+    - family: Barbo
+      given: Lenora de Castro
+  genre: Dissertação (mestrado)
+  issued:
+    - year: 2010
+  language: por
+  publisher: 'Universidade de Brasília, Faculdade de Arquitetura e Urbanismo'
+  publisher-place: Brasília
+  title: >-
+    Preexistência de Brasília : reconstruir o território para construir a
+    memória
+  title-short: Preexistência de Brasília
+  type: thesis
+  URL: 'http://repositorio.unb.br/handle/10482/8547'
+
+- id: 'brandao:2017antiga'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 21
+  author:
+    - family: Brandão
+      given: Simone Buiate
+  genre: Tese de doutorado (Arquitetura e Urbanismo)
+  issued:
+    - year: 2017
+      month: 8
+      day: 23
+  language: por
+  publisher: 'Universidade Federal de Goiás, Programa de Pós-graduação em Projeto e Cidade'
+  publisher-place: Goiânia
+  source: repositorio.bc.ufg.br
+  title: A antiga linha férrea de Goiânia. De símbolo da modernidade à obsolescência
+  title-short: A antiga linha férrea de Goiânia
+  type: thesis
+  URL: 'http://repositorio.bc.ufg.br/tede/handle/tede/7776'
+
+- id: 'camposjunior:2014locomotiva'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 21
+  author:
+    - family: Campos Júnior
+      given: Paulo Borges
+  genre: Tese de doutorado (Planejamento urbano e regional)
+  issued:
+    - year: 2014
+      month: 3
+      day: 7
+  language: por
+  publisher: >-
+    Universidade Federal de Goiás, Programa de Pós-graduação em Ciências
+    Ambientais
+  publisher-place: Goiânia
+  source: repositorio.bc.ufg.br
+  title: 'A locomotiva nas fronteiras: o veículo das transformações em Goiás 1913–1940'
+  title-short: A locomotiva nas fronteiras
+  type: thesis
+  URL: 'http://repositorio.bc.ufg.br/tede/handle/tede/3596'
+
+- id: 'caniggia:1997ragionamenti'
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: '72.02'
+  ISBN: 88-8125-191-4 978-88-8125-191-9
+  issued:
+    - year: 1997
+  language: Italian
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: >-
+    Ragionamenti di tipologia: operatività della tipologia processuale in
+    architettura
+  title-short: Ragionamenti di tipologia
+  type: book
+
+- id: 'chico:1956cidade'
+  author:
+    - family: Chicó
+      given: Mário Tavares
+  call-number: 711.4(547 DAM)"16"
+  container-title: Revista da Junta das Missões Geográficas e de Investigações do Ultramar
+  issue: especial
+  issued:
+    - year: 1956
+  language: por
+  page: 319–328
+  source: www.biblartepac.gulbenkian.pt Library Catalog
+  title: A “cidade ideal” do Renascimento e as cidades portuguesas da Índia
+  type: article-journal
+
+- id: 'conzen:2004thinking'
+  author:
+    - family: Conzen
+      given: M. R. G
+    - family: Conzen
+      given: Michael P
+  call-number: '718.04'
+  ISBN: 3-03910-276-1 978-3-03910-276-1 0-8204-7203-4 978-0-8204-7203-4
+  issued:
+    - year: 2004
+  language: English
+  publisher: Peter Lang
+  publisher-place: Oxford; New York
+  source: Open WorldCat
+  title: 'Thinking about urban form: papers on urban morphology, 1932-1998'
+  title-short: Thinking about urban form
+  type: book
+
+- id: 'fernandes:2014fundacao'
+  author:
+    - family: Fernandes
+      given: Sérgio Padrão
+  collection-number: '2'
+  collection-title: 'Cadernos MUrb morfologia urbana: estudos da cidade portuguesa'
+  container-title: O Tempo e a Forma
+  editor:
+    - family: Coelho
+      given: Carlos Dias
+  ISBN: 978-972-8479-79-4
+  issued:
+    - year: 2014
+  language: Portuguese
+  page: 70–93
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: >-
+    Fundação e evolução dos traçados urbanos: Matrizes elementares de
+    assentamento e derivações complexas
+  title-short: Fundação e evolução dos traçados urbanos
+  type: chapter
+
+- id: 'ferreira:1999urbanizacao'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 21
+  author:
+    - family: Ferreira
+      given: Aroldo Márcio
+  genre: Tese de doutorado (História das Sociedades Agrárias)
+  issued:
+    - year: 1999
+  publisher: 'Universidade Federal de Goiás, Programa de Pós-graduação em História'
+  publisher-place: Goiânia
+  title: >-
+    Urbanização e arquitetura na região da Estrada de Ferro Goiás: Cidade de
+    Pires do Rio, um exemplar em estudo
+  title-short: Urbanização e arquitetura na região da Estrada de Ferro Goiás
+  type: thesis
+  URL: 'https://pos.historia.ufg.br/up/113/o/FERREIRA__Aroldo_M_rcio._1999.pdf'
+
+- id: 'finger:2014seculo'
+  accessed:
+    - year: 2017
+      month: 1
+      day: 12
+  author:
+    - family: Finger
+      given: Anna Eliza
+  genre: Tese de doutorado
+  issued:
+    - year: 2014
+  language: por
+  publisher: >-
+    Programa de Pós-Graduação em Arquitetura e Urbanismo, Universidade de
+    Brasília
+  publisher-place: Brasília
+  source: BCE
+  title: >-
+    Um século de estradas de ferro : arquiteturas das ferrovias no Brasil entre
+    1852 e 1957
+  title-short: Um século de estradas de ferro
+  type: thesis
+  URL: 'http://repositorio.unb.br/handle/10482/15345'
+
+- id: 'franca:1973formacao1'
+  author:
+    - family: França
+      given: Maria de Souza
+  container-title: ANPUH
+  issue: '55'
+  issued:
+    - year: 1973
+      month: 9
+  page: 636–664
+  title: A formação histórica da cidade de Anápolis e sua área de influência regional
+  type: article-journal
+  volume: '1'
+
+- id: 'garcia:2010goyaz'
+  author:
+    - family: Garcia
+      given: Ledonias Franco
+  call-number: 981.73"18"
+  ISBN: 978-85-87635-84-6 85-87635-84-0
+  issued:
+    - year: 2010
+  language: Portuguese
+  publisher: PUC-GO / Cânone
+  publisher-place: Goiânia
+  source: Open WorldCat
+  title: 'Goyaz, uma província do sertão'
+  title-short: Goyaz
+  type: book
+
+- id: 'giesbrecht:2018e'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 21
+  author:
+    - family: Giesbrecht
+      given: Ralph Mennucci
+  container-title: Estações ferroviárias do Brasil
+  issued:
+    - year: 2018
+      month: 7
+      day: 25
+  title: E. F. Goiaz — Estações Ferroviárias do Estado de Goiás
+  title-short: E. F. Goiaz
+  type: webpage
+  URL: 'http://www.estacoesferroviarias.com.br/efgoiaz/indice.htm'
+
+- id: 'institutobrasileirodegeografiaeestatistica:2006mapa'
+  author:
+    - family: Instituto Brasileiro de Geografia e Estatística
+      given: IBGE
+  issued:
+    - year: 2006
+  publisher: IBGE
+  title: Mapa de unidades de relevo do Brasil
+  type: map
+  URL: >-
+    ftp://geoftp.ibge.gov.br/informacoes_ambientais/geomorfologia/mapas/brasil/relevo_2006.pdf
+
+- id: 'leme:2005urbanismo'
+  author:
+    - family: Leme
+      given: Maria Cristina da Silva
+  container-title: 'Urbanismo no Brasil, 1895-1965'
+  edition: '2'
+  editor:
+    - family: Leme
+      given: Maria Cristina da Silva
+  ISBN: 978-85-232-0348-1
+  issued:
+    - year: 2005
+  language: Portuguese
+  page: 20–38
+  publisher: EDUFBA
+  publisher-place: Salvador
+  source: Open WorldCat
+  title: 'A formação do pensamento urbanístico no Brasil, 1895–1965'
+  type: chapter
+
+- id: 'leme:2005urbanismo'
+  edition: '2'
+  editor:
+    - family: Leme
+      given: Maria Cristina da Silva
+  ISBN: 978-85-232-0348-1
+  issued:
+    - year: 2005
+  language: Portuguese
+  publisher: EDUFBA
+  publisher-place: Salvador
+  source: Open WorldCat
+  title: 'Urbanismo no Brasil, 1895-1965'
+  type: book
+
+- id: 'lemes:2004lei9'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  author:
+    - family: Lemes
+      given: Fernando Lobo
+  container-title: Revista Jurídica Unievangélica
+  issue: '1'
+  issued:
+    - year: 2004
+  language: pt-BR
+  page: 70–89
+  source: periodicos.unievangelica.edu.br
+  title: A Lei das Sesmarias e Portugal no século XIV
+  title-short: A Lei das Sesmarias
+  type: article-journal
+  URL: >-
+    http://periodicos.unievangelica.edu.br/index.php/revistajuridica/article/view/597
+  volume: '9'
+
+- id: 'lobo:2012urbanismo'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  editor:
+    - family: Lobo
+      given: Manuel Leal da Costa
+    - family: Simões Júnior
+      given: José Geraldo
+  ISBN: 978-85-8293-053-3
+  issued:
+    - year: 2012
+  language: Portuguese
+  publisher: 'SciELO : Editora Mackenzie'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Urbanismo de colina. Uma tradição luso-brasileira
+  title-short: Urbanismo de colina
+  type: book
+  URL: 'http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855'
+
+- id: 'medeiros:2006urbis'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 17
+  author:
+    - family: Medeiros
+      given: Valério Augusto Soares
+      dropping-particle: de
+  genre: Tese (doutorado em Arquitetura e Urbanismo)
+  issued:
+    - year: 2006
+      month: 11
+      day: 16
+  language: Português
+  publisher: Universidade de Brasília
+  source: repositorio.unb.br
+  title: >-
+    Urbis brasiliae ou sobre cidades do Brasil : inserindo assentamentos urbanos
+    do país em investigações configuracionais comparativas
+  title-short: Urbis brasiliae ou sobre cidades do Brasil
+  type: thesis
+  URL: 'http://repositorio.unb.br/handle/10482/1557'
+
+- id: 'netto:2015fundamentos'
+  author:
+    - family: Netto
+      given: Maria Manoela Gimmler
+    - family: Costa
+      given: Stael de Alvarenga Pereira
+  ISBN: 978-85-7654-302-2
+  issued:
+    - year: 2015
+  language: pt-BR
+  number-of-pages: '236'
+  publisher: C/Arte
+  publisher-place: Belo Horizonte
+  title: Fundamentos de morfologia urbana
+  type: book
+
+- id: 'oliveira:2016urban'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 17
+  author:
+    - family: Oliveira
+      given: Vítor
+  collection-title: The Urban Book Series
+  ISBN: 978-3-319-32081-6
+  issued:
+    - year: 2016
+  language: en
+  publisher: Springer
+  publisher-place: Cham
+  source: www.springer.com
+  title: >-
+    Urban Morphology: An Introduction to the Study of the Physical Form of
+    Cities
+  title-short: Urban Morphology
+  type: book
+  URL: 'http://www.springer.com/la/book/9783319320816'
+
+- id: 'palacin:1975historia'
+  author:
+    - family: Palacin
+      given: Luiz
+    - family: Moraes
+      given: Maria Augusta Sant'anna
+  issued:
+    - year: 1975
+  language: pt
+  number-of-pages: '140'
+  publisher: Imprensa da U.F.GO.
+  publisher-place: Goiânia
+  source: Google Books
+  title: História de Goiás (1722–1972)
+  title-short: História de Goiás
+  type: book
+
+- id: 'panerai:2006analise'
+  author:
+    - family: Panerai
+      given: Philippe
+  call-number: '718.04'
+  ISBN: 85-230-0923-X 978-85-230-0923-6
+  issued:
+    - year: 2006
+  language: Portuguese
+  publisher: Editora UnB
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: Análise urbana
+  translator:
+    - family: Leitão
+      given: Francisco
+  type: book
+
+- id: 'ramos:2009historia'
+  editor:
+    - family: Ramos
+      given: Rui
+    - family: Monteiro
+      given: Nuno Gonçalves
+    - family: Sousa
+      given: Bernardo Vasconcelos
+      dropping-particle: e
+  issued:
+    - year: 2009
+  language: Portuguese
+  publisher: 'Esfera : Expresso'
+  publisher-place: 'Lisboa : Paço de Arcos'
+  source: Open WorldCat
+  title: História de Portugal
+  type: book
+
+- id: 'reisfilho:1968contribuicao'
+  author:
+    - family: Reis Filho
+      given: Nestor Goulart
+  call-number: 711.034(81)
+  issued:
+    - year: 1968
+  language: Portuguese
+  publisher: 'Pioneira : Ed. da Universidade'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Contribuição ao estudo da evolução urbana do Brasil (1500–1720)
+  type: book
+
+- id: 'sainthilaire:1848voyage'
+  accessed:
+    - year: 2012
+      month: 7
+      day: 31
+  author:
+    - family: Saint-Hilaire
+      given: Augustin François César Prouvençal
+      dropping-particle: de
+  call-number: 918.15 S141 Pt. 3
+  collection-number: '3'
+  collection-title: Voyages dans l'interieur du Brésil
+  issued:
+    - year: 1848
+  number-of-pages: '349'
+  publisher: Arthus Bertrand
+  publisher-place: Paris
+  title: Voyage aux sources du Rio de S. Francisco et dans la province de Goyaz
+  title-short: Voyage … dans la province de Goyaz
+  type: book
+  URL: 'http://archive.org/details/voyagesdanslinte47sain'
+  volume: '2'
+
+- id: 'silva:2018goyaz'
+  editor:
+    - family: Silva
+      given: Elias Manoel
+      dropping-particle: da
+    - family: Vieira
+      given: Wilson
+      suffix: Jr.
+  ISBN: 978-85-61536-07-7
+  issued:
+    - year: 2018
+  publisher: Arquivo Público do Distrito Federal
+  publisher-place: Brasília
+  title: 'Goyaz : guia de cartografia histórica'
+  type: book
+
+- id: 'simonsen:1937historia'
+  author:
+    - family: Simonsen
+      given: Roberto C
+  issued:
+    - year: 1937
+  language: Portuguese
+  number-of-volumes: '2'
+  publisher: Companhia Editora Nacional
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Historia econômica do Brasil, 1500–1820'
+  type: book
+
+- id: 'teixeira:2012forma'
+  author:
+    - family: Teixeira
+      given: Manuel C
+  ISBN: 978-85-393-0175-1 978-85-401-0033-6
+  issued:
+    - year: 2012
+  language: Portuguese
+  publisher: 'Unesp : Imprensa Oficial do Estado'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: A forma da cidade de origem portuguesa
+  type: book
+
+- id: 'trindade:2009urbanismo'
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  author:
+    - family: Trindade
+      given: Luísa
+  genre: Tese (doutoramento) em História da Arte
+  issued:
+    - year: 2009
+  language: por
+  publisher: Faculdade de Letras da Universidade de Coimbra
+  source: estudogeral.uc.pt
+  title: Urbanismo na composição de Portugal
+  type: thesis
+  URL: 'https://estudogeral.uc.pt/handle/10316/13529'
+...

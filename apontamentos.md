@@ -5,7 +5,81 @@ author:
   - Flávia Rosa de la Plata[^aff1]
 date       : "PNUM 2020"
 abstract:
-description:
+description: |
+  A urbanização no planalto Central do Brasil é pontuada por uma
+  sequência bem conhecida de eventos: o surto de fundação de arraiais e
+  vilas durante o período da mineração, no século XVIII seguido de um
+  pretenso declínio urbano no século XIX, a construção da Estrada de
+  Ferro Goiás (EFG), a partir de 1912, e a fundação de Goiânia, em 1933,
+  e de Brasília, inaugurada em 1960. Dessa narrativa global, no entanto,
+  apenas a urbanização mineradora e as novas capitais têm sido objeto de
+  estudos amplos e aprofundados. Diante desse cenário, o presente
+  trabalho lança alguma luz sobre o processo de urbanização nos
+  planaltos de Goiás entre o século XIX e a primeira metade do século
+  XX. Pra tanto, aborda três núcleos urbanos característicos de
+  distintas fases nesse processo: Mestre d'Armas (atualmente conhecida
+  como Planaltina e incorporada ao Distrito Federal), atestada como
+  arraial a partir de 1838; Sant'Ana das Antas (atual Anápolis), cuja
+  freguesia data de 1873; e Vianópolis, parcelamento de apoio a uma
+  estação ferroviária, estabelecido em 1924 (@fig:cidades).
+
+  A historiografia da urbanização luso-brasileira é um campo bastante
+  consolidado em sua periodização e abordagens, tributária primeiramente
+  dos estudos pioneiros sobre o período colonial de Mário Chicó
+  [-@chico:1956cidade] e Nestor Goulart Reis Filho
+  [-@reisfilho:1968contribuicao] e, na sequência, das pesquisas sobre o
+  urbanismo do século XX compiladas por Maria Cristina Leme
+  [-@leme:2005urbanismo]. Mais recentemente, a morfologia urbana tem
+  trazido contribuições importantes para o conhecimento dos mecanismos de
+  implantação e crescimento das cidades luso-brasileiras históricas, sendo
+  notáveis o vasto levantamento realizado por Valério Medeiros
+  [-@medeiros:2006urbis] assim como as pesquisas sistemáticas lideradas
+  por Staël Pereira Costa [@netto:2015fundamentos] e Vítor Oliveira.
+  [-@oliveira:2016urban] A história da cartografia e dos traçados urbanos
+  tem sido fundamental para elucidar as políticas e os processos de
+  urbanização do Centro-oeste do Brasil, com destaque para o trabalho
+  pioneiro de Renata Araújo [-@araujo:2003razao] e para as contribuições à
+  leitura histórica do território do atual Distrito Federal por Lenora
+  Barbo [-@barbo:2011preexistencia], Elias Manoel da Silva e Wilson Vieira
+  Jr. [-@silva:2018goyaz].
+
+  Observa-se, entretanto, uma lacuna recorrente nesses estudos
+  correspondendo à urbanização tradicional do "longo século XIX" ---
+  período que vai do declínio da mineração, nas duas últimas décadas do
+  setecentos, até a introdução do urbanismo moderno com a fundação de
+  Goiânia e o ciclo de fundação de colônias agrícolas da década de 1940.
+  Essa lacuna corresponde ao pretenso período de estagnação descrito em
+  discursos oitocentista e reforçado pelos historiadores econômicos do
+  início do século XX [@simonsen:1937historia], que encontraria um
+  rebatimento mais ou menos direto na ausência de qualquer desenvolvimento
+  arquitetônico ou urbanístico digno de nota. No entanto, tal pressuposto
+  vem sendo questionado em estudos históricos recentes, tais como o de
+  Ledonias Garcia, que ressaltam o dinamismo cultural e a reorganização
+  produtiva da economia das regiões mineradoras durante o século XIX,
+  apontando o viés político-ideológico dos discursos oitocentistas
+  [@garcia:2010goyaz].
+
+  Transpondo para o âmbito dos estudos urbanos a recente revisão
+  historiográfica do pretenso "século do silêncio" em Goiás, esta pesquisa
+  sustenta que o período que vai do início do século XIX ao primeiro terço
+  do século XX caracteriza-se não por uma depressão e declínio urbano
+  generalizados, mas por uma reorganização e diversificação dos processos
+  de urbanização no Planalto central. As dinâmicas emergentes na primeira
+  metade do oitocentos concentram-se na consolidação de praças comerciais
+  e a agregação da população rural em freguesias que se urbanizam
+  gradualmente, com traçados demonstrando prefiguração geométrica mas,
+  também, reminiscências da urbanização colonial. No início do século XX,
+  a penetração da EFG introduz processos de parcelamento do solo
+  influenciados pela técnica urbanística erudita dos engenheiros modernos.
+
+  A pesquisa desenha esse cenário a partir de uma análise morfológica dos
+  traçados urbanos e do parcelamento do solo [@panerai:2006analise] nos
+  quatro sítios estudados. Essa análise visa a discernir as transformações
+  no crescimento urbano com respeito ao antigo modelo do arraial colonial
+  português, superando a inexistência de cartografia histórica mediante a
+  aplicação das metodologias da escola britânica de morfologia urbana
+  [@conzen:2004thinking] e da tipologia processual italiana
+  [@caniggia:1997ragionamenti].
 keywords: 
   - Goiás (estado, Brasil)
   - Século XIX
@@ -48,20 +122,20 @@ consolidado em sua periodização e abordagens, tributária primeiramente
 dos estudos pioneiros sobre o período colonial de Mário Chicó
 [-@chico:1956cidade] e Nestor Goulart Reis Filho
 [-@reisfilho:1968contribuicao] e, na sequência, das pesquisas sobre o
-urbanismo do século XX compiladas por Maria Cristina Leme.
-[-@leme:2005urbanismo] Mais recentemente, a morfologia urbana tem
+urbanismo do século XX compiladas por Maria Cristina Leme
+[-@leme:2005urbanismo]. Mais recentemente, a morfologia urbana tem
 trazido contribuições importantes para o conhecimento dos mecanismos de
 implantação e crescimento das cidades luso-brasileiras históricas, sendo
 notáveis o vasto levantamento realizado por Valério Medeiros
 [-@medeiros:2006urbis] assim como as pesquisas sistemáticas lideradas
-por Staël Pereira Costa [@netto:2015fundamentos] e Vítor Oliveira.
-[-@oliveira:2016urban] A história da cartografia e dos traçados urbanos
+por Staël Pereira Costa [@netto:2015fundamentos] e Vítor Oliveira
+[-@oliveira:2016urban]. A história da cartografia e dos traçados urbanos
 tem sido fundamental para elucidar as políticas e os processos de
 urbanização do Centro-oeste do Brasil, com destaque para o trabalho
 pioneiro de Renata Araújo [-@araujo:2003razao] e para as contribuições à
 leitura histórica do território do atual Distrito Federal por Lenora
-Barbo, [-@barbo:2011preexistencia] Elias Manoel da Silva e Wilson Vieira
-Jr. [-@silva:2018goyaz]
+Barbo [-@barbo:2011preexistencia], Elias Manoel da Silva e Wilson Vieira
+Jr. [-@silva:2018goyaz].
 
 Observa-se, entretanto, uma lacuna recorrente nesses estudos
 correspondendo à urbanização tradicional do "longo século XIX" ---
@@ -70,14 +144,14 @@ setecentos, até a introdução do urbanismo moderno com a fundação de
 Goiânia e o ciclo de fundação de colônias agrícolas da década de 1940.
 Essa lacuna corresponde ao pretenso período de estagnação descrito em
 discursos oitocentista e reforçado pelos historiadores econômicos do
-início do século XX, [@simonsen:1937historia] que encontraria um
+início do século XX [@simonsen:1937historia], que encontraria um
 rebatimento mais ou menos direto na ausência de qualquer desenvolvimento
 arquitetônico ou urbanístico digno de nota. No entanto, tal pressuposto
 vem sendo questionado em estudos históricos recentes, tais como o de
 Ledonias Garcia, que ressaltam o dinamismo cultural e a reorganização
 produtiva da economia das regiões mineradoras durante o século XIX,
-apontando o viés político-ideológico dos discursos oitocentistas.
-[@garcia:2010goyaz]
+apontando o viés político-ideológico dos discursos oitocentistas
+[@garcia:2010goyaz].
 
 Transpondo para o âmbito dos estudos urbanos a recente revisão
 historiográfica do pretenso "século do silêncio" em Goiás, esta pesquisa
@@ -115,15 +189,15 @@ portuguesa que se manteve fundamentalmente inalterada até as sucessivas
 reformas administrativas empreendidas por D. João V em 1736 e por D.
 José I, instado pelo Marquês de Pombal, em 1759. Da Lei das Sesmarias
 depreende-se uma primazia política do rural sobre o urbano, amparada no
-argumento da segurança alimentar, [@lemes:2004lei9, p. 85] temperada
+argumento da segurança alimentar [@lemes:2004lei9, p. 85], temperada
 pela hegemonia cultural e atração social exercidas, na prática, pelas
-vilas e cidades. [@ramos:2009historia, p. 209--210]
+vilas e cidades [@ramos:2009historia, p. 209--210].
 
 Nesse processo de urbanização português, a partir do século XIV, à
 semelhança do restante da Europa ocidental no mesmo período, coexistem
 dois tipos distintos de produção da forma urbana, ambos tendo como
 denominador comum "a rua como elemento estruturador, o lote igualitário
-e a cerca como elemento delimitador". [@trindade:2013urbanismo, p. 27]
+e a cerca como elemento delimitador" [@trindade:2013urbanismo, p. 27].
 Desses princípios, sobretudo os dois primeiros --- rua troncal e
 parcelamento regular ---, emergem os dois tipos: a vila prefigurada e o
 arraial. No entanto, nem sempre se verifica uma nítida distinção entre
@@ -153,7 +227,7 @@ arraial parcialmente prefigurado, evidenciado em Vila Boa, é
 complementado, na política territorial de D. João V e D. José I--Pombal,
 pela vila ou aldeamento de rígido traçado geométrico e cuja "dimensão
 política daquele espaço ultrapassava as circunstâncias de defesa de uma
-área localizada, para vir a significar a defesa de 'toda' a conquista."
+área localizada, para vir a significar a defesa de 'toda' a conquista"
 [@araujo:2012urbanizacao] (@fig:menezes).
 
 ![Vila Boa de Goiás em 1789, compreendendo a urbanização
@@ -186,14 +260,14 @@ A coincidência cronológica do fim da política pombalina com o declínio
 da mineração não significa, contudo, uma ruptura nítida no processo de
 urbanização. Tal constatação alinha-se com a revisão historiográfica da
 última década, que vem contradizendo a antiga interpretação de
-configurar-se o oitocentos em Goiás como um "século do silêncio".
-[@garcia:2010goyaz] A reorientação da economia goiana para atividades
+configurar-se o oitocentos em Goiás como um "século do silêncio"
+[@garcia:2010goyaz]. A reorientação da economia goiana para atividades
 agroexportadoras, já atestada por Saint-Hilaire durante sua viagem pela
 capitania em 1818, implica, porém, uma reorientação funcional dos
 núcleos urbanos. Estes passam a ter uma ocupação fortemente marcada por
 atividades sazonais, determinadas pelo ciclo produtivo agropecuário e,
-de modo mais evidente, pelo calendário de festividades religiosas.
-[@sainthilaire:1848voyage]
+de modo mais evidente, pelo calendário de festividades religiosas
+[@sainthilaire:1848voyage].
 
 Essa mudança promove uma relativa dispersão dos sítios urbanos,
 estimulando o crescimento de um número maior de povoações de pequeno
@@ -228,7 +302,7 @@ quarteirões pequenos e lotes rasos. A cronologia e o caráter de
 racionalidade geométrica do novo traçado, dando pouca consideração às
 condicionantes topográficas, vincula essa malha reformulada ao ciclo de
 novas fundações e melhoramentos urbanos promovidos sob a égide dos
-engenheiros na segunda metade do século XIX; [@leme:2005formacao, p. 22]
+engenheiros na segunda metade do século XIX [@leme:2005formacao, p. 22];
 dessa época datam as mais antigas edificações remanescentes no centro
 histórico. Apesar de não haver, em Mestre d'Armas, qualquer evidência da
 intervenção direta de engenheiros, alguns membros da elite política
@@ -262,7 +336,7 @@ pela adaptação à topografia. A característica mais marcante do traçado
 da vila das Antas, que a diferencia de Mestre d'Armas, é uma nítida
 hierarquia viária herdada do sistema "rua da frente"--"rua de
 trás"--"travessa" que articula o processo de sedimentação urbana das
-povoações medievais portuguesas. [@fernandes:2014fundacao] Apesar de
+povoações medievais portuguesas [@fernandes:2014fundacao]. Apesar de
 reformas urbanas no século XX terem parcialmente ocultado tal
 hierarquia, ela pode ser resgatada pelos vestígios do parcelamento
 primitivo do solo e nomenclatura das vias. A presença dessa configuração

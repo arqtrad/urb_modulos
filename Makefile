@@ -50,8 +50,7 @@ link-template :
 	# template repo, activate the submodules there, then merge it into
 	# whatever branch was previously active (the master branch if your
 	# repo has just been initialized).
-	-git remote add template
-	git@github.com:p3palazzo/research_template.git
+	-git remote add template git@github.com:p3palazzo/research_template.git
 	git fetch template
 	git checkout -B template --track template/master
 	git checkout -

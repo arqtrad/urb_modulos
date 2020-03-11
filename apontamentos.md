@@ -1,82 +1,43 @@
 ---
-title      : 'Apontamentos para uma história da forma urbana no Planalto central do Brasil'
+title: >
+  Infraestrutura de transportes e crescimento urbano no Brasil central no início do século XX
 author:
-  - name   : Pedro Paulo Palazzo
-    affiliation: >
-      Professor adjunto, Departamento de Teoria e História da
-      Arquitetura e do Urbanismo, Universidade de Brasília; palazzo\@unb.br
   - name   : Flávia Rosa de la Plata
-    affiliation: >
+    affiliation: |
       Universidade de Brasília, curso de graduação em Arquitetura e
-      Urbanismo; flaviadelaplata\@gmail.com.
-date       : "PNUM 2020 Subtema 3. O Tempo e a Forma Urbana"
+      Urbanismo
+
+      ICC Norte Bloco A, Brasília DF 70910--900; flaviadelaplata\@gmail.com.
+  - name   : Pedro Paulo Palazzo
+    affiliation: |
+      Professor adjunto, Departamento de Teoria e História da
+      Arquitetura e do Urbanismo, Universidade de Brasília
+
+      ICC Norte bloco A, Brasília DF 70910--900; palazzo\@unb.br
+date       : "PNUM 2020 Subtema 2. Equipamentos Coletivos e Forma Urbana"
 abstract:
 description: |
+  ![Início da urbanização de Vianópolis. Reconstituição por
+  Flávia de la Plata](1542755499048_image.png){#fig:vian1 width=100%}
+
   A urbanização no planalto Central do Brasil é pontuada por uma
   sequência bem conhecida de eventos: o surto de fundação de arraiais e
   vilas durante o período da mineração, no século XVIII seguido de um
   pretenso declínio urbano no século XIX, a construção da Estrada de
   Ferro Goiás (EFG), a partir de 1912, e a fundação de Goiânia, em 1933,
-  e de Brasília, inaugurada em 1960. Dessa narrativa global, no entanto,
-  apenas a urbanização mineradora e as novas capitais têm sido objeto de
-  estudos amplos e aprofundados. Diante desse cenário, o presente
-  trabalho lança alguma luz sobre o processo de urbanização nos
-  planaltos de Goiás entre o século XIX e a primeira metade do século
-  XX. Pra tanto, aborda três núcleos urbanos característicos de
-  distintas fases nesse processo: Mestre d'Armas (atualmente conhecida
-  como Planaltina e incorporada ao Distrito Federal), atestada como
-  arraial a partir de 1838; Sant'Ana das Antas (atual Anápolis), cuja
-  freguesia data de 1873; e Vianópolis, parcelamento de apoio a uma
-  estação ferroviária, estabelecido em 1924 (@fig:cidades).
+  e de Brasília, inaugurada em 1960. Da lacuna historiográfica que é a
+  urbanização do planalto Central no período de 1780 a 1930, começa a
+  emergir o retrato de uma diversificação da base urbana em detrimento
+  do crescimento de núcleos mineradores preexistentes.
 
-  A historiografia da urbanização luso-brasileira é um campo bastante
-  consolidado em sua periodização e abordagens, tributária primeiramente
-  dos estudos pioneiros sobre o período colonial de Mário Chicó
-  [-@chico:1956cidade] e Nestor Goulart Reis Filho
-  [-@reisfilho:1968contribuicao] e, na sequência, das pesquisas sobre o
-  urbanismo do século XX compiladas por Maria Cristina Leme
-  [-@leme:2005urbanismo]. Mais recentemente, a morfologia urbana tem
-  trazido contribuições importantes para o conhecimento dos mecanismos de
-  implantação e crescimento das cidades luso-brasileiras históricas, sendo
-  notáveis o vasto levantamento realizado por Valério Medeiros
-  [-@medeiros:2006urbis] assim como as pesquisas sistemáticas lideradas
-  por Staël Pereira Costa [@netto:2015fundamentos] e Vítor Oliveira.
-  [-@oliveira:2016urban] A história da cartografia e dos traçados urbanos
-  tem sido fundamental para elucidar as políticas e os processos de
-  urbanização do Centro-oeste do Brasil, com destaque para o trabalho
-  pioneiro de Renata Araújo [-@araujo:2003razao] e para as contribuições à
-  leitura histórica do território do atual Distrito Federal por Lenora
-  Barbo [-@barbo:2011preexistencia], Elias Manoel da Silva e Wilson Vieira
-  Jr. [-@silva:2018goyaz].
-
-  Observa-se, entretanto, uma lacuna recorrente nesses estudos
-  correspondendo à urbanização tradicional do "longo século XIX" ---
-  período que vai do declínio da mineração, nas duas últimas décadas do
-  setecentos, até a introdução do urbanismo moderno com a fundação de
-  Goiânia e o ciclo de fundação de colônias agrícolas da década de 1940.
-  Essa lacuna corresponde ao pretenso período de estagnação descrito em
-  discursos oitocentista e reforçado pelos historiadores econômicos do
-  início do século XX [@simonsen:1937historia], que encontraria um
-  rebatimento mais ou menos direto na ausência de qualquer desenvolvimento
-  arquitetônico ou urbanístico digno de nota. No entanto, tal pressuposto
-  vem sendo questionado em estudos históricos recentes, tais como o de
-  Ledonias Garcia, que ressaltam o dinamismo cultural e a reorganização
-  produtiva da economia das regiões mineradoras durante o século XIX,
-  apontando o viés político-ideológico dos discursos oitocentistas
-  [@garcia:2010goyaz].
-
-  Transpondo para o âmbito dos estudos urbanos a recente revisão
-  historiográfica do pretenso "século do silêncio" em Goiás, esta pesquisa
-  sustenta que o período que vai do início do século XIX ao primeiro terço
-  do século XX caracteriza-se não por uma depressão e declínio urbano
-  generalizados, mas por uma reorganização e diversificação dos processos
-  de urbanização no Planalto central. As dinâmicas emergentes na primeira
-  metade do oitocentos concentram-se na consolidação de praças comerciais
-  e a agregação da população rural em freguesias que se urbanizam
-  gradualmente, com traçados demonstrando prefiguração geométrica mas,
-  também, reminiscências da urbanização colonial. No início do século XX,
-  a penetração da EFG introduz processos de parcelamento do solo
-  influenciados pela técnica urbanística erudita dos engenheiros modernos.
+  Diante desse cenário, o presente trabalho lança alguma luz sobre o
+  processo de urbanização nos planaltos de Goiás entre o século XIX e a
+  primeira metade do século XX. Pra tanto, aborda três núcleos urbanos
+  característicos de distintas fases nesse processo: Mestre d'Armas
+  (atualmente conhecida como Planaltina e incorporada ao Distrito
+  Federal), atestada como arraial a partir de 1838; Sant'Ana das Antas
+  (atual Anápolis), cuja freguesia data de 1873; e Vianópolis,
+  parcelamento de apoio a uma estação ferroviária, estabelecido em 1924.
 
   A pesquisa desenha esse cenário a partir de uma análise morfológica dos
   traçados urbanos e do parcelamento do solo [@panerai:2006analise] nos
@@ -86,17 +47,73 @@ description: |
   aplicação das metodologias da escola britânica de morfologia urbana
   [@conzen:2004thinking] e da tipologia processual italiana
   [@caniggia:1997ragionamenti].
+
+  Esta pesquisa sustenta que o período que vai do início do século XIX
+  ao primeiro terço do século XX caracteriza-se não por uma depressão e
+  declínio urbano generalizados, mas por uma reorganização e
+  diversificação dos processos de urbanização no Planalto central. As
+  dinâmicas emergentes na primeira metade do oitocentos concentram-se na
+  consolidação de praças comerciais e a agregação da população rural em
+  freguesias que se urbanizam gradualmente, com traçados demonstrando
+  prefiguração geométrica mas, também, reminiscências da urbanização
+  colonial. No início do século XX, a penetração da EFG introduz
+  processos de parcelamento do solo influenciados pela técnica
+  urbanística erudita dos engenheiros modernos. Argumenta-se que, ao
+  longo das transformações morfológicas nesse período, persiste a mesma
+  dinâmica mista de atração exercida por um equipamento público ---
+  primeiro a capela da freguesia, depois a estação ---, entroncamento
+  viário e, depois, ferroviário, e especulação sobre a expectativa de
+  aumento do valor fundiário do solo em torno desses equipamentos.
+
+  O traçado viário das freguesias oitocentistas, como Mestre d'Armas e a
+  vila das Antas, apresenta continuidades com a tradição urbanística
+  luso-brasileira: a rua troncal nivelada na topografia, determinando
+  uma hierarquia frente--fundos no parcelamento mais ou menos regular do
+  solo. A malha urbana resultante aproxima-se de uma retícula regular,
+  especialmente nas reformulações ou expansões dos traçados empreendidas
+  no final do século XIX e início do XX.
+  A freguesia das Antas tem em comum com Mestre d'Armas a configuração
+  de traçado viário em retícula, característica dos paradigmas
+  profissionais da engenharia, porém mais fortemente deformada pela
+  adaptação à topografia. A característica mais marcante do traçado da
+  vila das Antas, que a diferencia de Mestre d'Armas, é uma nítida
+  hierarquia viária herdada do sistema "rua da frente"--"rua de
+  trás"--"travessa" que articula o processo de sedimentação urbana das
+  povoações medievais portuguesas [@fernandes:2014fundacao].
+  A criação da malha urbana de Vianópolis (@fig:vian1) segue o padrão de
+  outros pousos ferroviários do Estado, associados ao estabelecimento de
+  pequenas povoações no entorno de cada estação. Essa urbanização no
+  entorno das estações espelha o processo de parcelamento do solo no
+  século XIX, fomentado pelo estabelecimento de ermidas e sua posterior
+  promoção a freguesias.
+
+  No entorno das estações da ferrovia fundam-se parcelamentos urbanos de
+  caráter especulativo, muitas vezes projetados pelos próprios engenheiros
+  ferroviários. Essa dinâmica de urbanização resulta em traçados em
+  retícula quadrangular, como no plano inicial de Vianópolis. Apesar da
+  geometria estritamente ortogonal da malha, o crescimento da povoação tem
+  caráter radiante, determinado pela proximidade à estação e pela barreira
+  formada pela própria linha ferroviária. Mesmo assim, a topografia e o
+  crescimento na importância do transporte rodoviário promovem, em pouco
+  tempo, uma assimetria do tecido urbano, que se repete em Anápolis. Nesta
+  cidade, a urbanização ao longo da ferrovia adquire caráter marcadamente
+  industrial, ao passo que o parcelamento do solo de caráter residencial e
+  comercial estrutura-se ao longo da rodovia, mas também irradiando-se em
+  torno do centro histórico.
+
 keywords: 
   - Goiás (estado, Brasil)
   - Século XIX
   - Morfologia urbana
-  - Freguesias
+  - Ferrovia
   - Cidades planejadas
 xnos-cleveref         : true
 xnos-capitalise       : true
 fignos-caption-name   : "Figura"
 xnos-number-by-section: false
 ---
+
+<!--
 
 Introdução
 ==========
@@ -252,7 +269,7 @@ p. 157] das práticas e transformações elaboradas durante os séculos
 anteriores. Tal leitura deixa implícito que a tal momento de síntese
 deveria seguir-se algum tipo de ruptura nas práticas urbanísticas
 tradicionais. O que se verifica no registro urbano do Planalto central
-do Brasil, ao contrário, é uma gradual transformação ampara na
+do Brasil, ao contrário, é uma gradual transformação amparada na
 sobrevivência dessas tradições.
 
 A urbanização na forma do arraial não fica, portanto, restrita aos
@@ -580,9 +597,5 @@ de Planaltina deixa de ser determinado predominantemente pelas suas
 próprias características territoriais e socioeconômicas, passando a ser
 subsidiário à demanda por moradia na metrópole da capital federal.
 
-Referências bibliográficas
-==========================
-
-::: {#refs}
-:::
+-->
 

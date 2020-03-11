@@ -6,17 +6,15 @@ file-scope             : True
 standalone             : True
 default-image-extension: '.jpg'
 from                   : 'markdown'
-to                     : 'docx'
 table-of-contents      : False
 number-sections        : False
 csl                    : 'lib/styles/chicago-author-date.csl'
 bibliography           : '_data/biblio.yaml'
 reference-doc          : 'lib/pnum2020.docx'
-template               : 'lib/pnum2020.docx'
+template               : 'lib/pnum2020.md'
 resource-path:
   - .
   - fig
 metadata:
-  suppress-bibliography: False
   bibliography-title   : "Referências"
-  nocite               : "@*"
+  suppress-bibliography: False

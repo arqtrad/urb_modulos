@@ -7,28 +7,25 @@ author:
       Universidade de Brasília, curso de graduação em Arquitetura e
       Urbanismo
 
-      ICC Norte Bloco A, Brasília DF 70910--900; flaviadelaplata\@gmail.com.
+      ICC Norte Bloco A, Brasília DF 70910--900; flaviadelaplata@gmail.com
   - name   : Pedro Paulo Palazzo
     affiliation: |
       Professor adjunto, Departamento de Teoria e História da
       Arquitetura e do Urbanismo, Universidade de Brasília
 
-      ICC Norte bloco A, Brasília DF 70910--900; palazzo\@unb.br
+      ICC Norte bloco A, Brasília DF 70910--900; palazzo@unb.br
 date       : "PNUM 2020 Subtema 2. Equipamentos Coletivos e Forma Urbana"
-abstract:
 description: |
-  ![Início da urbanização de Vianópolis. Reconstituição por
-  Flávia de la Plata](1542755499048_image.png){#fig:vian1 width=100%}
-
   A urbanização no planalto Central do Brasil é pontuada por uma
   sequência bem conhecida de eventos: o surto de fundação de arraiais e
   vilas durante o período da mineração, no século XVIII seguido de um
   pretenso declínio urbano no século XIX, a construção da Estrada de
   Ferro Goiás (EFG), a partir de 1912, e a fundação de Goiânia, em 1933,
   e de Brasília, inaugurada em 1960. Da lacuna historiográfica que é a
-  urbanização do planalto Central no período de 1780 a 1930, começa a
-  emergir o retrato de uma diversificação da base urbana em detrimento
-  do crescimento de núcleos mineradores preexistentes.
+  urbanização do planalto Central no período de 1780 a 1930
+  [@garcia:2010goyaz], começa a emergir o retrato de uma diversificação
+  da base urbana em detrimento do crescimento de núcleos mineradores
+  preexistentes.
 
   Diante desse cenário, o presente trabalho lança alguma luz sobre o
   processo de urbanização nos planaltos de Goiás entre o século XIX e a
@@ -62,8 +59,9 @@ description: |
   longo das transformações morfológicas nesse período, persiste a mesma
   dinâmica mista de atração exercida por um equipamento público ---
   primeiro a capela da freguesia, depois a estação ---, entroncamento
-  viário e, depois, ferroviário, e especulação sobre a expectativa de
-  aumento do valor fundiário do solo em torno desses equipamentos.
+  viário [@barbo:2011preexistencia] e, depois, ferroviário, e
+  especulação sobre a expectativa de aumento do valor fundiário do solo
+  em torno desses equipamentos.
 
   O traçado viário das freguesias oitocentistas, como Mestre d'Armas e a
   vila das Antas, apresenta continuidades com a tradição urbanística
@@ -80,8 +78,8 @@ description: |
   hierarquia viária herdada do sistema "rua da frente"--"rua de
   trás"--"travessa" que articula o processo de sedimentação urbana das
   povoações medievais portuguesas [@fernandes:2014fundacao].
-  A criação da malha urbana de Vianópolis (@fig:vian1) segue o padrão de
-  outros pousos ferroviários do Estado, associados ao estabelecimento de
+  A criação da malha urbana de Vianópolis segue o padrão de outros
+  pousos ferroviários do Estado, associados ao estabelecimento de
   pequenas povoações no entorno de cada estação. Essa urbanização no
   entorno das estações espelha o processo de parcelamento do solo no
   século XIX, fomentado pelo estabelecimento de ermidas e sua posterior
@@ -100,7 +98,6 @@ description: |
   industrial, ao passo que o parcelamento do solo de caráter residencial e
   comercial estrutura-se ao longo da rodovia, mas também irradiando-se em
   torno do centro histórico.
-
 keywords: 
   - Goiás (estado, Brasil)
   - Século XIX
@@ -111,6 +108,7 @@ xnos-cleveref         : true
 xnos-capitalise       : true
 fignos-caption-name   : "Figura"
 xnos-number-by-section: false
+bibliography-title    : "Referências"
 ---
 
 <!--

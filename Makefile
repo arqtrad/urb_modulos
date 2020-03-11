@@ -9,6 +9,15 @@ vpath default.% lib/pandoc-templates
 # Branch-specific targets and recipes {{{1
 # ===================================
 
+pnum2020 : _book/pnum2020-abstract.docx
+
+_book/pnum2020-abstract.docx : pnum2020-abstract-tmp.md article_docx.yaml \
+	_data/biblio.yaml lib/pnum2020.docx
+	pandoc -s --defaults spec/article_docx.yaml -o $@ $<
+
+pnum2020-abstract-tmp.md : apontamentos.md article_docx.yaml \
+	_data/biblio.yaml lib/pnum2020.md
+	pandoc -s --defaults spec/article_docx.yaml -o $@ $<
 
 # Install and cleanup {{{1
 # ===================
